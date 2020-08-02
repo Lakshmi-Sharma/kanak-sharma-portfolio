@@ -1,0 +1,12 @@
+{
+  "paintings": [
+    { "id": 1, "title": "Painting 1", "desc": "Oil on canvas", "image":"QQ" },
+    { "id": 2, "title": "Painting 2", "desc": "Oil on wood", "image":"QQ" },
+    { "id": 3, "title": "Painting 3", "desc": "Water on paper", "image":"QQ" },
+    { "id": 4, "title": "Painting 4", "desc": "Oil on canvas", "image":"QQ" },
+    { "id": 5, "title": "Painting 5", "desc": "Water on paper", "image":"QQ" },
+    { "id": 6, "title": "Painting 6", "desc": "Water on paper", "image":"QQ" },
+    { "id": 7, "title": "Painting 7", "desc": "Oil on paper", "image":"QQ" },
+    { "id": 8, "title": "Painting 8", "desc": "Acrylic on canvas", "image":"QQ" }
+  ]
+}
